@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/03b7e868d47044088128b85b48c8b79f/artifacts
+end_time: 1763394677286
+entry_point_name: ''
+experiment_id: '628799233928398303'
+lifecycle_stage: active
+run_id: 03b7e868d47044088128b85b48c8b79f
+run_name: fearless-grouse-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394674516
+status: 3
+tags: []
+user_id: samuda

@@ -44,7 +44,7 @@ def create_preprocessor():
     
     nominal_transformer = Pipeline([
         ('impute', SimpleImputer(strategy="most_frequent")),
-        ('encode', OneHotEncoder(handle_unknown='ignore', sparse=False))
+        ('encode', OneHotEncoder(handle_unknown='ignore', sparse_output=False))
     ])
     
     preprocessor = ColumnTransformer([

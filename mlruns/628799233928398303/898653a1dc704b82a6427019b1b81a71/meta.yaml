@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/898653a1dc704b82a6427019b1b81a71/artifacts
+end_time: 1763394392790
+entry_point_name: ''
+experiment_id: '628799233928398303'
+lifecycle_stage: active
+run_id: 898653a1dc704b82a6427019b1b81a71
+run_name: fearless-fox-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394392736
+status: 4
+tags: []
+user_id: samuda

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/cd725fa288a5412fb0e1f06566cea9e1/artifacts
+end_time: 1763394315389
+entry_point_name: ''
+experiment_id: '628799233928398303'
+lifecycle_stage: active
+run_id: cd725fa288a5412fb0e1f06566cea9e1
+run_name: bright-ram-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394315359
+status: 4
+tags: []
+user_id: samuda

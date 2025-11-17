@@ -1,0 +1,6 @@
+# Ignore runtime and MLflow files
+__pycache__/
+*.pkl
+*.log
+.env
+.~lock.HR_Data.csv#
