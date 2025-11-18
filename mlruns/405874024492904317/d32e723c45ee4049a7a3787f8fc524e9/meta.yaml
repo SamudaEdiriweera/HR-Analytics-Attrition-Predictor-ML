@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/d32e723c45ee4049a7a3787f8fc524e9/artifacts
+end_time: 1763458105314
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: d32e723c45ee4049a7a3787f8fc524e9
+run_name: overjoyed-trout-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105294
+status: 3
+tags: []
+user_id: samuda

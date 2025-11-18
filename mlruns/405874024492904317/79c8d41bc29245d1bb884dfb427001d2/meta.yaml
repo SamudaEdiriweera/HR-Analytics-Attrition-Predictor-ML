@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/79c8d41bc29245d1bb884dfb427001d2/artifacts
+end_time: 1763458105437
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 79c8d41bc29245d1bb884dfb427001d2
+run_name: incongruous-eel-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105417
+status: 3
+tags: []
+user_id: samuda

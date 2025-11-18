@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/0531213fdb7a4364bcf54876e60c02f3/artifacts
+end_time: 1763458105415
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 0531213fdb7a4364bcf54876e60c02f3
+run_name: legendary-squid-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105397
+status: 3
+tags: []
+user_id: samuda

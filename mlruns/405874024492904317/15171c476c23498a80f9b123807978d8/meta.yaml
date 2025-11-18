@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/15171c476c23498a80f9b123807978d8/artifacts
+end_time: 1763458147199
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 15171c476c23498a80f9b123807978d8
+run_name: resilient-toad-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458147166
+status: 3
+tags: []
+user_id: samuda

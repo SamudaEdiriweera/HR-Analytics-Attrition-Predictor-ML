@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/3ef688c37547480eb8cfdd46ae5a74f5/artifacts
+end_time: 1763458105628
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 3ef688c37547480eb8cfdd46ae5a74f5
+run_name: enchanting-asp-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105609
+status: 3
+tags: []
+user_id: samuda

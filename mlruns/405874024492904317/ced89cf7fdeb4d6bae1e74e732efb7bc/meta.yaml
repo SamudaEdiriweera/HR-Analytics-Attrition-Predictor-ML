@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/ced89cf7fdeb4d6bae1e74e732efb7bc/artifacts
+end_time: 1763458146107
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: ced89cf7fdeb4d6bae1e74e732efb7bc
+run_name: upset-skunk-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146087
+status: 3
+tags: []
+user_id: samuda

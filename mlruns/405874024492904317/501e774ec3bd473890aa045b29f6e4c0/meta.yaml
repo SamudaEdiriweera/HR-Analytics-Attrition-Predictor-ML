@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/501e774ec3bd473890aa045b29f6e4c0/artifacts
+end_time: 1763458162769
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 501e774ec3bd473890aa045b29f6e4c0
+run_name: grandiose-kite-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162748
+status: 3
+tags: []
+user_id: samuda

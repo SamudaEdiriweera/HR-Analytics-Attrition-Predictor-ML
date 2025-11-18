@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a2412a4dc7584ff597fd41192cc520c3/artifacts
+end_time: 1763458146765
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a2412a4dc7584ff597fd41192cc520c3
+run_name: bouncy-wren-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146746
+status: 3
+tags: []
+user_id: samuda

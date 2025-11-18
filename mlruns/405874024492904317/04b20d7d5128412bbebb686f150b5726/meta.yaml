@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/04b20d7d5128412bbebb686f150b5726/artifacts
+end_time: 1763458162461
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 04b20d7d5128412bbebb686f150b5726
+run_name: angry-wren-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162439
+status: 3
+tags: []
+user_id: samuda

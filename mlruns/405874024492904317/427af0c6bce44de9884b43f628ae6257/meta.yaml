@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/427af0c6bce44de9884b43f628ae6257/artifacts
+end_time: 1763456902988
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 427af0c6bce44de9884b43f628ae6257
+run_name: calm-loon-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456902971
+status: 3
+tags: []
+user_id: samuda

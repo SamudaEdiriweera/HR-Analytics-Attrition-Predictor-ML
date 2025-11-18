@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a7716874de3e414ea67f1b453c2de0da/artifacts
+end_time: 1763458161820
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a7716874de3e414ea67f1b453c2de0da
+run_name: secretive-wren-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161799
+status: 3
+tags: []
+user_id: samuda

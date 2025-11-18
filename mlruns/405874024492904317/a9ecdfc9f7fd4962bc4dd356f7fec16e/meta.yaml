@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a9ecdfc9f7fd4962bc4dd356f7fec16e/artifacts
+end_time: 1763458105194
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a9ecdfc9f7fd4962bc4dd356f7fec16e
+run_name: fun-dove-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105176
+status: 3
+tags: []
+user_id: samuda

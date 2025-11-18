@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/ec391be68d9342e6bb1bad660339bd22/artifacts
+end_time: 1763458161583
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: ec391be68d9342e6bb1bad660339bd22
+run_name: bedecked-hawk-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161561
+status: 3
+tags: []
+user_id: samuda

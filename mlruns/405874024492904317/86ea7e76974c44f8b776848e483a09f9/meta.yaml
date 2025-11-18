@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/86ea7e76974c44f8b776848e483a09f9/artifacts
+end_time: 1763468134171
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 86ea7e76974c44f8b776848e483a09f9
+run_name: Optuna_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763468120184
+status: 3
+tags: []
+user_id: samuda

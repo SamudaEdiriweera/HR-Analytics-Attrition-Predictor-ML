@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/f619c29d1014454aacc4b95f769430d5/artifacts
+end_time: 1763456902829
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: f619c29d1014454aacc4b95f769430d5
+run_name: unleashed-zebra-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456902811
+status: 3
+tags: []
+user_id: samuda

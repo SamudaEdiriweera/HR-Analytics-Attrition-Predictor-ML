@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/89fffa9aff6049a790333f75fc8845be/artifacts
+end_time: 1763458161559
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 89fffa9aff6049a790333f75fc8845be
+run_name: nosy-newt-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161535
+status: 3
+tags: []
+user_id: samuda

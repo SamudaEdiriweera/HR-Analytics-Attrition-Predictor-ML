@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/abc81cc6d9944c09bebc71a488ee2959/artifacts
+end_time: 1763458146256
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: abc81cc6d9944c09bebc71a488ee2959
+run_name: industrious-mink-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146237
+status: 3
+tags: []
+user_id: samuda

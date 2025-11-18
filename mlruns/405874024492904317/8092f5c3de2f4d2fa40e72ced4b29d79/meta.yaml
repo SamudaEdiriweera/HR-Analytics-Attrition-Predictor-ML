@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/8092f5c3de2f4d2fa40e72ced4b29d79/artifacts
+end_time: 1763458146062
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 8092f5c3de2f4d2fa40e72ced4b29d79
+run_name: monumental-hare-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146035
+status: 3
+tags: []
+user_id: samuda

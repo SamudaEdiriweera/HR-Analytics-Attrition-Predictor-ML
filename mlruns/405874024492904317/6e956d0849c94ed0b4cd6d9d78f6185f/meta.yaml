@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/6e956d0849c94ed0b4cd6d9d78f6185f/artifacts
+end_time: 1763458161631
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 6e956d0849c94ed0b4cd6d9d78f6185f
+run_name: traveling-wren-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161610
+status: 3
+tags: []
+user_id: samuda

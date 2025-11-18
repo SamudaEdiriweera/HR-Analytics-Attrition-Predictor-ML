@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/09b9f2acadb04c00a2c49c43634c5ac0/artifacts
+end_time: 1763458162542
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 09b9f2acadb04c00a2c49c43634c5ac0
+run_name: sincere-penguin-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162518
+status: 3
+tags: []
+user_id: samuda

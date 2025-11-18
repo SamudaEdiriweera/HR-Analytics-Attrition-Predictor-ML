@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/609de7c2aa904926aa3f0b1aaa232230/artifacts
+end_time: 1763458104935
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 609de7c2aa904926aa3f0b1aaa232230
+run_name: rumbling-wasp-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458104917
+status: 3
+tags: []
+user_id: samuda

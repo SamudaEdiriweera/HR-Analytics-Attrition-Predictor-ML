@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/ec152f9e3a7948fa9fa9c78c2e488ad7/artifacts
+end_time: 1763458161749
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: ec152f9e3a7948fa9fa9c78c2e488ad7
+run_name: salty-cub-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161727
+status: 3
+tags: []
+user_id: samuda

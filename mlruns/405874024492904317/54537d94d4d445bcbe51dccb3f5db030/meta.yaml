@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/54537d94d4d445bcbe51dccb3f5db030/artifacts
+end_time: 1763458146214
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 54537d94d4d445bcbe51dccb3f5db030
+run_name: wistful-midge-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146195
+status: 3
+tags: []
+user_id: samuda

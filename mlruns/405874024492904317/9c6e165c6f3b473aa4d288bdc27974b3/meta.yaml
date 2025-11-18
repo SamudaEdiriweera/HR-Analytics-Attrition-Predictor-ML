@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/9c6e165c6f3b473aa4d288bdc27974b3/artifacts
+end_time: 1763458146854
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 9c6e165c6f3b473aa4d288bdc27974b3
+run_name: aged-eel-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146832
+status: 3
+tags: []
+user_id: samuda

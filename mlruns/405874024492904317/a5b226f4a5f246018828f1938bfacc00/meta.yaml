@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a5b226f4a5f246018828f1938bfacc00/artifacts
+end_time: 1763456902886
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a5b226f4a5f246018828f1938bfacc00
+run_name: bedecked-asp-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456902869
+status: 3
+tags: []
+user_id: samuda

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/d2252f17765e49fda2bf7a0a5d6d288f/artifacts
+end_time: 1763458147007
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: d2252f17765e49fda2bf7a0a5d6d288f
+run_name: sincere-jay-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146984
+status: 3
+tags: []
+user_id: samuda

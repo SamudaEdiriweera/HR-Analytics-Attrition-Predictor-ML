@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/99e39e7a5e7b48888430d5c6ef26378e/artifacts
+end_time: 1763458105214
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 99e39e7a5e7b48888430d5c6ef26378e
+run_name: unleashed-grouse-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105196
+status: 3
+tags: []
+user_id: samuda

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/57cf45df28b9494884f2a1ebe075209c/artifacts
+end_time: 1763458146580
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 57cf45df28b9494884f2a1ebe075209c
+run_name: omniscient-ram-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146561
+status: 3
+tags: []
+user_id: samuda

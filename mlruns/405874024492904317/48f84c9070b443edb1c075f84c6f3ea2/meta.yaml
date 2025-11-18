@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/48f84c9070b443edb1c075f84c6f3ea2/artifacts
+end_time: 1763458105504
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 48f84c9070b443edb1c075f84c6f3ea2
+run_name: beautiful-goose-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105484
+status: 3
+tags: []
+user_id: samuda

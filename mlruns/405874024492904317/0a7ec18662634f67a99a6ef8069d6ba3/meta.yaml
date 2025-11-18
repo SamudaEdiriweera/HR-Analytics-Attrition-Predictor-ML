@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/0a7ec18662634f67a99a6ef8069d6ba3/artifacts
+end_time: 1763458104994
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 0a7ec18662634f67a99a6ef8069d6ba3
+run_name: sedate-shad-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458104977
+status: 3
+tags: []
+user_id: samuda

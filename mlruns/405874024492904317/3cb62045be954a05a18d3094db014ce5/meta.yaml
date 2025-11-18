@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/3cb62045be954a05a18d3094db014ce5/artifacts
+end_time: 1763456908661
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 3cb62045be954a05a18d3094db014ce5
+run_name: calm-mole-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456908643
+status: 3
+tags: []
+user_id: samuda

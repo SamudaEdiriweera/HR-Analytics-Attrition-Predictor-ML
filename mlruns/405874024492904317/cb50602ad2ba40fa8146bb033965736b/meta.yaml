@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/cb50602ad2ba40fa8146bb033965736b/artifacts
+end_time: 1763458105587
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: cb50602ad2ba40fa8146bb033965736b
+run_name: luminous-dove-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105569
+status: 3
+tags: []
+user_id: samuda

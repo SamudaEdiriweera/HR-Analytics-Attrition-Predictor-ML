@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/fc6f2e78704d471186ace48044761bf3/artifacts
+end_time: 1763458162793
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: fc6f2e78704d471186ace48044761bf3
+run_name: bittersweet-elk-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162772
+status: 3
+tags: []
+user_id: samuda

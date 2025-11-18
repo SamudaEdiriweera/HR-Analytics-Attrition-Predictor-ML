@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/dc1e6520cf4446ef90c93fdddc092a2c/artifacts
+end_time: 1763458162114
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: dc1e6520cf4446ef90c93fdddc092a2c
+run_name: capable-dolphin-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162092
+status: 3
+tags: []
+user_id: samuda

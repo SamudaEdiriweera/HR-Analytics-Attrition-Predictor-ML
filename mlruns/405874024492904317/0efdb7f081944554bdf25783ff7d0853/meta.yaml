@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/0efdb7f081944554bdf25783ff7d0853/artifacts
+end_time: 1763458105688
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 0efdb7f081944554bdf25783ff7d0853
+run_name: peaceful-bat-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105669
+status: 3
+tags: []
+user_id: samuda

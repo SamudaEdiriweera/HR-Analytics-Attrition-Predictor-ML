@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/68957d19fc184e41b4f9262c1c1ce392/artifacts
+end_time: 1763458162363
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 68957d19fc184e41b4f9262c1c1ce392
+run_name: capable-sponge-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162339
+status: 3
+tags: []
+user_id: samuda

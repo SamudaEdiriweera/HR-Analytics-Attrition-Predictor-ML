@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/06194f1327f84ac18bea532af8c50f6e/artifacts
+end_time: 1763456905972
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 06194f1327f84ac18bea532af8c50f6e
+run_name: debonair-boar-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456905953
+status: 3
+tags: []
+user_id: samuda

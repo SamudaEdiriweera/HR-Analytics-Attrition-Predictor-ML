@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/ca987f05b7bf48ceae837d3d736aa338/artifacts
+end_time: 1763456908662
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: ca987f05b7bf48ceae837d3d736aa338
+run_name: GridSearch_XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456906059
+status: 3
+tags: []
+user_id: samuda

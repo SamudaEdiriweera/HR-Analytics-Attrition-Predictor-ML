@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/52a4f7623e664e12b48e1f85e29d8314/artifacts
+end_time: 1763456905951
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 52a4f7623e664e12b48e1f85e29d8314
+run_name: delightful-toad-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456905934
+status: 3
+tags: []
+user_id: samuda

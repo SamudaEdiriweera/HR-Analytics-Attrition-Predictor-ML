@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/d98756b4958141f3a483b20f1ad44bf6/artifacts
+end_time: 1763458146878
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: d98756b4958141f3a483b20f1ad44bf6
+run_name: rumbling-kit-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146857
+status: 3
+tags: []
+user_id: samuda

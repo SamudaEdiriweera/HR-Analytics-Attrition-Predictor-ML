@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/433662993b9d43479ae4827298accb8f/artifacts
+end_time: 1763458162389
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 433662993b9d43479ae4827298accb8f
+run_name: silent-fawn-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162365
+status: 3
+tags: []
+user_id: samuda

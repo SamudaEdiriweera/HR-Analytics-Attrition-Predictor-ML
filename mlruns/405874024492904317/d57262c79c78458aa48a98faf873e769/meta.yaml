@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/d57262c79c78458aa48a98faf873e769/artifacts
+end_time: 1763458162490
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: d57262c79c78458aa48a98faf873e769
+run_name: chill-shrew-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162463
+status: 3
+tags: []
+user_id: samuda

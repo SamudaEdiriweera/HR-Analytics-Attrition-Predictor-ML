@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/044e27cdad8a41ada26e5ed5f1a7dc54/artifacts
+end_time: 1763458146299
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 044e27cdad8a41ada26e5ed5f1a7dc54
+run_name: tasteful-bee-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146279
+status: 3
+tags: []
+user_id: samuda

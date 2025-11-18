@@ -1,0 +1,6 @@
+artifact_location: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317
+creation_time: 1763456898105
+experiment_id: '405874024492904317'
+last_update_time: 1763456898105
+lifecycle_stage: active
+name: HR_Attrition_Hyperparameter_Tuning

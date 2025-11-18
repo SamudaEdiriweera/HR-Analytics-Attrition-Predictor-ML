@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a868c4f645c64753a73485f5d682201d/artifacts
+end_time: 1763458105567
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a868c4f645c64753a73485f5d682201d
+run_name: luminous-horse-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105549
+status: 3
+tags: []
+user_id: samuda

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/97beb85b4fff4758aed0e387dfb4d077/artifacts
+end_time: 1763458147078
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 97beb85b4fff4758aed0e387dfb4d077
+run_name: receptive-mule-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458147057
+status: 3
+tags: []
+user_id: samuda

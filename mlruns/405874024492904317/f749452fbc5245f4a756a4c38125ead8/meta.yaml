@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/f749452fbc5245f4a756a4c38125ead8/artifacts
+end_time: 1763458162437
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: f749452fbc5245f4a756a4c38125ead8
+run_name: victorious-swan-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162416
+status: 3
+tags: []
+user_id: samuda

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a044096cab384d8aaf656707b1760a43/artifacts
+end_time: 1763458162746
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a044096cab384d8aaf656707b1760a43
+run_name: merciful-penguin-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458162723
+status: 3
+tags: []
+user_id: samuda

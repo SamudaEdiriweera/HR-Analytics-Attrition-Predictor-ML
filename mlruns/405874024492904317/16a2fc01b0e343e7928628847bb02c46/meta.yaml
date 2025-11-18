@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/16a2fc01b0e343e7928628847bb02c46/artifacts
+end_time: 1763458105375
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 16a2fc01b0e343e7928628847bb02c46
+run_name: bedecked-bird-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458105357
+status: 3
+tags: []
+user_id: samuda

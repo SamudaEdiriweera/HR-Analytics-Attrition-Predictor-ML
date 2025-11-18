@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/a3f3cf13db874f7f90b0ee73ca8edaa3/artifacts
+end_time: 1763458162010
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: a3f3cf13db874f7f90b0ee73ca8edaa3
+run_name: judicious-moth-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161988
+status: 3
+tags: []
+user_id: samuda

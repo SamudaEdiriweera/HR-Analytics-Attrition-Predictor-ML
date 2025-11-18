@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/3453b3e406f84a1c8637b17a6c3d0b70/artifacts
+end_time: 1763468243477
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 3453b3e406f84a1c8637b17a6c3d0b70
+run_name: Optuna_XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763468211979
+status: 3
+tags: []
+user_id: samuda

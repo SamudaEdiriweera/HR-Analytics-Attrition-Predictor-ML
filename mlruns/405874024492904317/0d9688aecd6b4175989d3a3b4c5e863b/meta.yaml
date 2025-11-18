@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/0d9688aecd6b4175989d3a3b4c5e863b/artifacts
+end_time: 1763458161796
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 0d9688aecd6b4175989d3a3b4c5e863b
+run_name: blushing-trout-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161775
+status: 3
+tags: []
+user_id: samuda

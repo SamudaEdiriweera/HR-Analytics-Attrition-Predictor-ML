@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/5337e2482cd7422c82506b0d76953c96/artifacts
+end_time: 1763458146699
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 5337e2482cd7422c82506b0d76953c96
+run_name: gaudy-hound-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458146676
+status: 3
+tags: []
+user_id: samuda

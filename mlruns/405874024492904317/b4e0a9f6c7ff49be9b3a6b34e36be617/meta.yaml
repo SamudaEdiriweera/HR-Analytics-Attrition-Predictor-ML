@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/b4e0a9f6c7ff49be9b3a6b34e36be617/artifacts
+end_time: 1763458161891
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: b4e0a9f6c7ff49be9b3a6b34e36be617
+run_name: peaceful-vole-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763458161870
+status: 3
+tags: []
+user_id: samuda

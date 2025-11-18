@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/405874024492904317/569b93a6076642dfbb40668ef5255123/artifacts
+end_time: 1763456903049
+entry_point_name: ''
+experiment_id: '405874024492904317'
+lifecycle_stage: active
+run_id: 569b93a6076642dfbb40668ef5255123
+run_name: worried-grouse-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763456903031
+status: 3
+tags: []
+user_id: samuda
