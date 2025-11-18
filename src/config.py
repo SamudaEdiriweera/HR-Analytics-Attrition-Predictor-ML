@@ -71,3 +71,32 @@ LOGISTIC_REGRESSION_PARAMS = {
     "max_iter": 1000,
     "random_state": RANDOM_STATE,
 }
+
+RANDOM_FOREST_PARAMS = {
+    'n_estimators': 100,
+    'random_state': RANDOM_STATE,
+}
+
+XGBOOST_PARAMS = {
+    'objective': 'binary:logistic',
+    'eval_metric': 'logloss',
+    'use_label_encoder': False,
+    'random_state': RANDOM_STATE,
+}
+
+# --- Model Selection ---
+# Defines the models we want to compare in our baseline run.
+MODELS = {
+    'LogisticRegression': {
+        'class': 'sklearn.linear_model.LogisticRegression',
+        'params': LOGISTIC_REGRESSION_PARAMS
+    },
+    'RandomForestClassifier': {
+        'class': 'sklearn.ensemble.RandomForestClassifier',
+        'params': RANDOM_FOREST_PARAMS
+    },
+    'XGBClassifier': {
+        'class': 'xgboost.XGBClassifier',
+        'params': XGBOOST_PARAMS
+    }
+}
