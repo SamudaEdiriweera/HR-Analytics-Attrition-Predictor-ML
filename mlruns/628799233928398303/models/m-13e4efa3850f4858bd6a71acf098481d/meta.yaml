@@ -1,0 +1,10 @@
+artifact_location: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/models/m-13e4efa3850f4858bd6a71acf098481d/artifacts
+creation_timestamp: 1763400577115
+experiment_id: '628799233928398303'
+last_updated_timestamp: 1763400579738
+model_id: m-13e4efa3850f4858bd6a71acf098481d
+model_type: null
+name: LogisticRegression
+source_run_id: 7f576cdedfcf459390dc6803d9d26487
+status: 2
+status_message: null

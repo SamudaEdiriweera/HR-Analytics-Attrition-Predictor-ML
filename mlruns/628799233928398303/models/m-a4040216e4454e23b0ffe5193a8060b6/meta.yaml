@@ -1,0 +1,10 @@
+artifact_location: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/models/m-a4040216e4454e23b0ffe5193a8060b6/artifacts
+creation_timestamp: 1763400583599
+experiment_id: '628799233928398303'
+last_updated_timestamp: 1763400586492
+model_id: m-a4040216e4454e23b0ffe5193a8060b6
+model_type: null
+name: XGBClassifier
+source_run_id: 02f806dfa22c4657bdae1439c3ec8833
+status: 2
+status_message: null

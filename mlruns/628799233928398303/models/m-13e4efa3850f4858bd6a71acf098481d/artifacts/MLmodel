@@ -1,0 +1,22 @@
+artifact_path: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/models/m-13e4efa3850f4858bd6a71acf098481d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.23
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-13e4efa3850f4858bd6a71acf098481d
+model_size_bytes: 6204
+model_uuid: m-13e4efa3850f4858bd6a71acf098481d
+prompts: null
+run_id: 7f576cdedfcf459390dc6803d9d26487
+utc_time_created: '2025-11-17 17:29:37.128012'

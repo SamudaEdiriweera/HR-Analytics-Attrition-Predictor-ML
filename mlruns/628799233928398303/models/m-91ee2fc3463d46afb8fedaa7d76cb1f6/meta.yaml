@@ -1,0 +1,10 @@
+artifact_location: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/models/m-91ee2fc3463d46afb8fedaa7d76cb1f6/artifacts
+creation_timestamp: 1763400580230
+experiment_id: '628799233928398303'
+last_updated_timestamp: 1763400582338
+model_id: m-91ee2fc3463d46afb8fedaa7d76cb1f6
+model_type: null
+name: RandomForestClassifier
+source_run_id: 8fef537b35c442038ee2ff0ba8c37b55
+status: 2
+status_message: null

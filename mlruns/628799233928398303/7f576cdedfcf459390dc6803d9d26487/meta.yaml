@@ -1,0 +1,14 @@
+artifact_uri: file:///home/samuda/samuda/Samuda%20Projects/ML/HR-Analytics-Attrition-Predictor-ML/mlruns/628799233928398303/7f576cdedfcf459390dc6803d9d26487/artifacts
+end_time: 1763400579740
+entry_point_name: ''
+experiment_id: '628799233928398303'
+lifecycle_stage: active
+run_id: 7f576cdedfcf459390dc6803d9d26487
+run_name: Run_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400576979
+status: 3
+tags: []
+user_id: samuda
